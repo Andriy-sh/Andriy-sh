@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Andriy! 🚀
+п# 👨‍💻 Hi, I'm Andriy! 🚀
 
 **Full-stack Developer** | **Electronics Engineer** | **Tech Enthusiast**
 
@@ -46,12 +46,12 @@ Currently working on:
 
 ### 🍕 **Foody**
    *A recipe discovery and sharing platform where users can find interesting recipes or add their own! Whether you're searching for new meal ideas or want to share your favorite recipes with others, Foody makes cooking fun and interactive.*
-   - **GitHub**: [Foody](https://github.com/yourusername/foody)
+   - **GitHub**: [Foody](https://github.com/Andriy-sh/Foody)
    - **Technologies**: Node.js, Express, PostgreSQL, React, TailwindCSS, JWT ... .
 
 ### 🐾 **Vet Helper**
    *A comprehensive clinic management tool designed for veterinary clinics. It includes features such as a blog for clinic news and updates, chat support for easy communication with clients, and dark/light mode for user comfort. Built with Next.js, it aims to simplify the daily operations of a clinic by providing an intuitive interface for managing appointments, services, doctor profiles, and more.*
-   - **GitHub**: [Vet Helper](https://github.com/yourusername/vet-helper)
+   - **GitHub**: [Vet Helper](https://github.com/Andriy-sh/VetHelper)
    - **Technologies**: Next.js, PostgreSQL, TailwindCSS ... .
 
 ## 🧠 About Me
@@ -62,7 +62,7 @@ I am a second-year student majoring in Electronics at the University of Lviv, wh
 
 - **Email**: [shavaloandriy1@gmail.com](mailto:shavaloandriy1@gmail.com)
 - **LinkedIn**: [AndriyShavalo](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%88%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE-ab803b35b/)
-- **Portfolio**: [AndriyShavalo](andriy-shavalo-portfolio.vercel.app/)
+- **Portfolio**: [AndriyShavalo](https://andriy-shavalo-portfolio.vercel.app/)
 
 ---
 
