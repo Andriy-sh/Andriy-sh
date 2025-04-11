@@ -24,14 +24,14 @@
 <div align="center">
 
 ### 🍕 Foody
-[![Foody Preview](https://img.shields.io/badge/Recipe_Platform-FF6B6B?style=for-the-badge)](https://github.com/Andriy-sh/Foody)  
+[![Foody Preview](https://img.shields.io/badge/Recipe_Platform-FF6B6B?style=for-the-badge)](https://foody-hazel.vercel.app/)  
 **React • Node.js • PostgreSQL**  
 A vibrant community for food lovers to share and discover recipes  
 
 [![GitHub](https://img.shields.io/badge/-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andriy-sh/Foody)
 
 ### 🐾 Vet Helper 
-[![Vet Helper Preview](https://img.shields.io/badge/Clinic_System-4ECDC4?style=for-the-badge)](https://github.com/Andriy-sh/VetHelper)  
+[![Vet Helper Preview](https://img.shields.io/badge/Clinic_System-4ECDC4?style=for-the-badge)](https://vet-helper.vercel.app/)  
 **Next.js • PostgreSQL • Tailwind**  
 Comprehensive solution for veterinary clinics with blog and appointment features  
 
