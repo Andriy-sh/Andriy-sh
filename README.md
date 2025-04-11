@@ -60,9 +60,10 @@ I am a second-year student majoring in Electronics at the University of Lviv, wh
 
 ## 📫 How to Reach Me:
 
-- **Email**: [shavaloandriy1@gmail.com](mailto:shavaloandriy1@gmail.com)
-- **LinkedIn**: [AndriyShavalo](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%88%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE-ab803b35b/)
-- **Portfolio**: [AndriyShavalo](https://andriy-shavalo-portfolio.vercel.app/)
+- **📧 Email**: [shavaloandriy1@gmail.com](mailto:shavaloandriy1@gmail.com)
+- **🔗 LinkedIn**: [@andriyShavalo](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D1%8F-%D1%88%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE-ab803b35b/)
+- **💼 Portfolio**: [portfolio](https://andriy-shavalo-portfolio.vercel.app/)
+
 
 ---
 
