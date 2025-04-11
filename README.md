@@ -1,4 +1,4 @@
-п# 👨‍💻 Hi, I'm Andriy! 🚀
+# 👨‍💻 Hi, I'm Andriy! 🚀
 
 **Full-stack Developer** | **Electronics Engineer** | **Tech Enthusiast**
 
