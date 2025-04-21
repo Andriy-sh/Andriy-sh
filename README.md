@@ -54,7 +54,7 @@ Comprehensive solution for veterinary clinics with blog and appointment features
   <a href="mailto:shavaloandriy1@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://www.linkedin.com/in/andriyshavalo/](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%88%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE-ab803b35b/)">
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%88%D0%B0%D0%B2%D0%B0%D0%BB%D0%BE-ab803b35b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://andriy-shavalo-portfolio.vercel.app/">
