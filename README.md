@@ -21,14 +21,16 @@
 
 <h2 align="center">🌟 Featured Projects</h2>
 
-<h2 align="center">👨‍🎓 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-🎓 <strong>Second-year Electronics student</strong> at University of Lviv<br/>
-💡 <strong>Problem solver</strong> through elegant code and intuitive design<br/>
-🚀 <strong>Tech explorer</strong> in modern web development<br/>
-🌱 <strong>Currently learning</strong> advanced React patterns and performance optimization  
+🚀 <strong>Fullstack Developer</strong> building modern web & mobile applications with React ecosystem and robust backends<br/>
+💡 Experienced in designing, developing, and deploying scalable apps using <strong>React, Next.js, React Native, Node.js, PostgreSQL, MySQL, Prisma</strong><br/>
+🎯 Focused on writing clean, maintainable code and implementing performant, user-friendly interfaces<br/>
+🌱 Continuously learning advanced React patterns, backend architecture, and fullstack best practices<br/>
+🌍 Passionate about solving real-world problems through technology and elegant design
 </p>
+
 
 <h2 align="center">📫 Let's Connect</h2>
 
